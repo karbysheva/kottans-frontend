@@ -24,3 +24,12 @@
 
 ![Image task_2](https://github.com/karbysheva/kottans-frontend/blob/master/task_2/GitHub_Collaboration.png)
 ![Image task_2](https://github.com/karbysheva/kottans-frontend/blob/master/task_2/Version_Control.png)
+
+# Intro to HTML and CSS
+
+- CSS was new for me and I have improved my knowledge of HTML
+- I was surprised how easy to make text style with CSS
+- I will learn more about power HTML and CSS and will use it in my future projects
+
+![Image task_3](https://github.com/karbysheva/kottans-frontend/blob/master/task_3/Intro_to_HTML_%26_CSS.png)
+![Image task_3](https://github.com/karbysheva/kottans-frontend/blob/master/task_3/HTML_Academy.png)
