@@ -33,3 +33,12 @@
 
 ![Image task_3](https://github.com/karbysheva/kottans-frontend/blob/master/task_3/Intro_to_HTML_%26_CSS.png)
 ![Image task_3](https://github.com/karbysheva/kottans-frontend/blob/master/task_3/HTML_Academy.png)
+
+# Responsive Web Design
+
+- I have learned new CSS patterns
+- I was surprised that web pages can be very flexible for different devices
+- I will use this new knowledges in my future practice 
+
+![Image task_4](https://github.com/karbysheva/kottans-frontend/blob/master/task_4/Responsive_Web_Design.png)
+![Image task_4](https://github.com/karbysheva/kottans-frontend/blob/master/task_4/Flexbox_Froggy.png)
